@@ -1,0 +1,48 @@
+echo ok 
+echo leo 
+echo alexandre 
+ls 
+cat history 
+echo test 
+ls 
+cat history 
+export VAR = TOTO 
+echo TOTO 
+cat history 
+cd $TEST 
+cat history 
+echo leo >test
+cat history 
+cat test 
+echo vallee >>test
+cat history 
+echo leo 
+ls 
+echo vallee 
+cd /home/leo 
+echo ok 
+history 
+ls 
+history 
+echo ok 
+echo efface le fichier test 
+rm test 
+echo Nouveau fichier test > test
+cd 
+ls 
+cat test 
+echo efface le fichier test 
+rm test 
+echo Nouveau fichier test > test
+cat test 
+history 
+d 
+ls 
+echo 
+cd  
+ls 
+rm builtin.o 
+ls 
+exit 
+exit 
+ls 

@@ -1,0 +1,8 @@
+echo leo; ls; echo vallee && cd $HOME
+echo        test     ;      ls      ;     echo OK;
+ls -l      &   &    export VAR    =   TOTO  
+cd $TEST;
+echo phrase dans le fichier     >       test &&    ls -l   >>     test;
+cat test
+history
+echo efface le fichier test       ;    rm test   &  &   echo Nouveau fichier test > test
